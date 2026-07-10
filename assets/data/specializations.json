@@ -1,0 +1,15 @@
+{
+  "specializations": [
+    { "id": "engineering", "label": "Engineering", "keywords": ["ingénierie", "ingénieur", "génie", "engineering"] },
+    { "id": "ai", "label": "AI", "keywords": ["intelligence artificielle", "ia", "artificial intelligence", "machine learning", "deep learning"] },
+    { "id": "cybersecurity", "label": "Cybersecurity", "keywords": ["cybersécurité", "cybersecurity", "sécurité informatique", "sécurité des systèmes"] },
+    { "id": "software_engineering", "label": "Software Engineering", "keywords": ["génie logiciel", "software engineering", "développement logiciel", "ingénierie logicielle"] },
+    { "id": "networks", "label": "Networks", "keywords": ["réseaux", "télécommunications", "networks", "systèmes et réseaux"] },
+    { "id": "data_science", "label": "Data Science", "keywords": ["data science", "big data", "science des données", "informatique décisionnelle"] },
+    { "id": "management", "label": "Management", "keywords": ["management", "gestion", "administration des entreprises"] },
+    { "id": "finance", "label": "Finance", "keywords": ["finance", "comptabilité", "audit", "banque"] },
+    { "id": "law", "label": "Law", "keywords": ["droit", "sciences juridiques", "law", "juridique"] },
+    { "id": "medicine", "label": "Medicine", "keywords": ["médecine", "pharmacie", "santé", "medicine"] },
+    { "id": "education", "label": "Education", "keywords": ["éducation", "enseignement", "didactique", "education", "formation des formateurs"] }
+  ]
+}

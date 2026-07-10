@@ -1,0 +1,41 @@
+{
+  "universities": [
+    { "name": "Université Mohammed V de Rabat", "shortName": "UM5R", "city": "Rabat" },
+    { "name": "Université Hassan II de Casablanca", "shortName": "UH2C", "city": "Casablanca" },
+    { "name": "Université Cadi Ayyad", "shortName": "UCA", "city": "Marrakech" },
+    { "name": "Université Sidi Mohamed Ben Abdellah", "shortName": "USMBA", "city": "Fès" },
+    { "name": "Université Ibn Tofail", "shortName": "UIT", "city": "Kénitra" },
+    { "name": "Université Ibn Zohr", "shortName": "UIZ", "city": "Agadir" },
+    { "name": "Université Moulay Ismail", "shortName": "UMI", "city": "Meknès" },
+    { "name": "Université Abdelmalek Essaadi", "shortName": "UAE", "city": "Tétouan" },
+    { "name": "Université Chouaib Doukkali", "shortName": "UCD", "city": "El Jadida" },
+    { "name": "Université Sultan Moulay Slimane", "shortName": "USMS", "city": "Béni Mellal" },
+    { "name": "Université Mohammed Premier", "shortName": "UMP", "city": "Oujda" },
+    { "name": "Université Hassan 1er", "shortName": "UH1", "city": "Settat" },
+    { "name": "Université Mohammed VI Polytechnique", "shortName": "UM6P", "city": "Benguerir" },
+    { "name": "Université Internationale de Rabat", "shortName": "UIR", "city": "Rabat" }
+  ],
+  "schools": [
+    { "acronym": "ENSIAS", "name": "École Nationale Supérieure d'Informatique et d'Analyse des Systèmes", "city": "Rabat" },
+    { "acronym": "EMI", "name": "École Mohammadia d'Ingénieurs", "city": "Rabat" },
+    { "acronym": "INPT", "name": "Institut National des Postes et Télécommunications", "city": "Rabat" },
+    { "acronym": "ENSAM", "name": "École Nationale Supérieure d'Arts et Métiers", "city": "Casablanca" },
+    { "acronym": "ENSA", "name": "École Nationale des Sciences Appliquées", "city": "" },
+    { "acronym": "ENCG", "name": "École Nationale de Commerce et de Gestion", "city": "" },
+    { "acronym": "FST", "name": "Faculté des Sciences et Techniques", "city": "" },
+    { "acronym": "FSJES", "name": "Faculté des Sciences Juridiques, Économiques et Sociales", "city": "" },
+    { "acronym": "FLSH", "name": "Faculté des Lettres et des Sciences Humaines", "city": "" },
+    { "acronym": "FS", "name": "Faculté des Sciences", "city": "" },
+    { "acronym": "FP", "name": "Faculté Polydisciplinaire", "city": "" },
+    { "acronym": "FMD", "name": "Faculté de Médecine et de Pharmacie", "city": "" },
+    { "acronym": "EST", "name": "École Supérieure de Technologie", "city": "" },
+    { "acronym": "ENS", "name": "École Normale Supérieure", "city": "" },
+    { "acronym": "ESEF", "name": "École Supérieure de l'Éducation et de la Formation", "city": "" }
+  ],
+  "cities": [
+    "Rabat", "Casablanca", "Marrakech", "Fès", "Kénitra", "Agadir", "Meknès",
+    "Tétouan", "Tanger", "El Jadida", "Béni Mellal", "Oujda", "Settat",
+    "Benguerir", "Salé", "Mohammédia", "Safi", "Nador", "Errachidia", "Khouribga",
+    "Guelmim", "Laâyoune", "Dakhla", "Ouarzazate", "Taza", "Larache"
+  ]
+}
